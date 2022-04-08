@@ -8,6 +8,7 @@ https://distill.pub/2016/deconv-checkerboard/
 4. LSGAN
 5. cGAN
 6. ACGAN
+7. FID: Evalute the GAN model
 
 A summary of some of the more actionable tips is provided below:
 
