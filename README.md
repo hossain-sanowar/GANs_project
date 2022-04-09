@@ -9,6 +9,7 @@ https://distill.pub/2016/deconv-checkerboard/
 5. cGAN
 6. ACGAN
 7. FID: Evalute the GAN model
+8. IS Gan
 
 A summary of some of the more actionable tips is provided below:
 
